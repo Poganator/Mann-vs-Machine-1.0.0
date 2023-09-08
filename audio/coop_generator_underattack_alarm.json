@@ -1,0 +1,4 @@
+{
+	"EventId": [ "coop_generator_underattack_alarm" ],
+	"AudioSelectionStrategy": "sequential"
+}

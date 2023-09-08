@@ -1,0 +1,4 @@
+{
+	"EventId": [ "coop_generator_shieldrecharge_end" ],
+	"AudioSelectionStrategy": "sequential"
+}

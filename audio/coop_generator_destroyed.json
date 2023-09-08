@@ -1,0 +1,4 @@
+{
+	"EventId": [ "coop_generator_destroyed" ],
+	"AudioSelectionStrategy": "sequential"
+}
