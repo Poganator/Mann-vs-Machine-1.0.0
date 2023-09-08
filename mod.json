@@ -1,0 +1,6 @@
+{
+  "Name": "Mann vs Machine Sounds",
+  "Description": "Imports Team Fortress 2, Mann vs Machine gamemode sounds to Frontier Defense",
+  "Version": "1.0.0",
+  "LoadPriority": 2
+}

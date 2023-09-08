@@ -1,0 +1,8 @@
+{
+    "name": "Mann_Vs_Machine_Sounds",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Imports Team Fortress 2, Mann vs Machine gamemode sounds to Frontier Defense",
+    "dependencies": [
+    ]
+}
