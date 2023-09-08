@@ -2,3 +2,4 @@ coop_generator_underattack_alarm
 solidmetal_heavy_bulletimpact_3p_vs_3p
 coop_generator_shieldrecharge_start
 coop_generator_shieldrecharge_end
+coop_generator_destroyed
